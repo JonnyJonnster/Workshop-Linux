@@ -17,7 +17,7 @@
 	- RCE in fucking notepad
 MEINE MUTTER NUTZT ARCH!!
 
-# Was ist eigl Linux?
+# Was ist eigentlich Linux?
 
 Linux != OS
 Linux == Kernel
