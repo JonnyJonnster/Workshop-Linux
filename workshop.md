@@ -3,7 +3,10 @@
 - Hi im Jonny
 - Nutze linux seit 3 sem auf Laptop, seit einem auf Desktop
 - studiere info
+
+
 # Warum auf Linux wechseln?
+
 ## Warum nicht?
 - support wächst mit jedem tag weiter
 	- egal ob treiber oder software support
@@ -16,6 +19,7 @@
 	- onlinezwang
 	- RCE in fucking notepad
 MEINE MUTTER NUTZT ARCH!!
+
 
 # Was ist eigentlich Linux?
 
@@ -31,18 +35,23 @@ MacOS ähnlich zu Linux, aber seehr corpo.
 - bragging rights, if youre into that
 - ist basically die zukunft
 
+
 # Software Umzug
-## Was aus Linux garantiert nicht laufen wird.
+
+## Was auf Linux garantiert nicht laufen wird.
 - Adobe
 - MS-Office
 - Autodesk (soll linux port bekommen, soon)
 - Die meister Software für peripherie.
+
 ## Was kann ich stattdessen nutzen?
 - *ersatzwebseite finden und einfügen*
 - Libre/openoffice
 - OpenRGB
 - Input-Remapper
 - effektiv jedes FOSS programm
+- faustregel: "je mehr OSS, desto größer die Chance, das es nativ auf Linux läuft"
+
 
 # Übersicht der Haupt Distros
 
@@ -54,18 +63,20 @@ TL;DR:
 locked down into user space, aims to be idiot "resistant"
 
 
-# Die wahl der ersten Distro
-- ihr werdet vmtl anfangs "distro hopping betreiben"
-- *https://themorpheus407.github.io/LinuxChooser/
+*Start Hands-on Teil*
+ab hier sollen sich teilnehmer Live versionen auf Sticks brennen und testen
 
 # Wie installiere ich Linux?
 
-Siehe [Die wahl der ersten Distro](# Die wahl der ersten Distro)
+## Die wahl der ersten Distro
+- ihr werdet vmtl anfangs "distro hopping betreiben"
+- *https://themorpheus407.github.io/LinuxChooser/*
+
 ## Bootfähiges Medium
 
-#### Windows:
+### Windows:
 Rufus - GUI basierte exe, sehr klein, simpel zu bedienen
-##### Linux
+### Linux
 Caligula - TUI (Terminal based), simpel und stark, inkompatibel mit windows iso.
 
 ## Dual-Boot
@@ -78,6 +89,7 @@ Google.
 *hier einschub wie unfassbar gut man ubuntu und arch sachen googlen kann*
 
 ## Appstore (Ubuntu/Debian)
+
 ## Paketmanager
 - Basicially wie Appstores vom Handy
 	- Zentralisiert über eine App/Programm
@@ -91,8 +103,8 @@ Google.
 - sicherer
 - größer
 
-# Interaktiver Teil
 
+# Interaktiver Teil
 - user können den Morpheus distro chooser machen
 - gemeinsam ne live iso erstellen?
 - kurze anmerkung was man unter windows sichern sollte?
