@@ -25,6 +25,9 @@ MEINE MUTTER NUTZT ARCH!!
 
 Linux != OS
 Linux == Kernel
+
+*Link zum kernel?*
+
 umgangssprachlich ist Linux das OS
 
 MacOS ähnlich zu Linux, aber seehr corpo.
@@ -57,6 +60,38 @@ MacOS ähnlich zu Linux, aber seehr corpo.
 
 *hier wikicommons bild einfügen (unix branchs)*
 *philosophie der drei distros **KURZ** erklären*
+## Arch
+- Rolling release
+- breaks easy, but gets fixed easy
+- Cutting edge
+	- goes both ways
+- maximale freiheit system zu customizen, oder zu schrotten
+- Archwiki
+- pacman
+
+
+## Debian
+- fels in der brandung (extremst stabil)
+	- "nearly industructible"
+- ~ 1y behind kernel udpates
+- apt
+- backend of the world
+
+
+## Fedora / Redhat
+- Rolling release (but still bit behind, 3m)
+- very secure, due to RHEL
+- beginner friendly
+- dnf
+
+## TL;DR:
+| Distro | Fokus |
+| --- | --- |
+| Arch | Bleeding edge / Unstable |
+| Debian | Always behind / extremely Stable |
+| Fedora | Mix of both |
+
+
 ## Atomic?
 verbietet es dem user ohne weiteres in den kernel mode zu kommen
 TL;DR:
@@ -113,3 +148,12 @@ Google.
 # Wie debugge ich Linux?
 
 problem + linux archetype + linux --> Google
+
+
+# Extras
+*mehr für mich als notizen*
+## Was ist ne Desktop Environment?
+
+## sound on linux
+
+
