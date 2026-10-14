@@ -1,8 +1,9 @@
 
 # Wer bin ich?
 - Hi im Jonny
-- Nutze linux seit 3 sem auf Laptop, seit einem auf Desktop
+- Nutze linux seit 2 Jahren auf Laptop, seit einem auf Desktop
 - studiere info
+
 
 
 # Warum auf Linux wechseln?
@@ -10,6 +11,7 @@
 ## Warum nicht?
 - support wächst mit jedem tag weiter
 	- egal ob treiber oder software support
+		- mein mic ging vor 2 jahren GARNICHT, heute fast vollständig
 	- linux alternativen zu fast jeder software existieren
 - windows wird mit jedem tag schlechter
 	- update dez: ssds schrott
@@ -19,25 +21,24 @@
 	- onlinezwang
 	- RCE in fucking notepad
 MEINE MUTTER NUTZT ARCH!!
-
+---
 
 # Was ist eigentlich Linux?
 
 Linux != OS
 Linux == Kernel
 
-*Link zum kernel?*
 
 umgangssprachlich ist Linux das OS
 
 MacOS ähnlich zu Linux, aber seehr corpo.
 
 # Vorteile von Linux
-- KDE Link (*hier handy hochhalten*)
+- KDE Link (*hier handy zeigen*)
 - highly customizeable
 - bragging rights, if youre into that
-- ist basically die zukunft
-
+- ist futureproof
+---
 
 # Software Umzug
 
@@ -48,13 +49,15 @@ MacOS ähnlich zu Linux, aber seehr corpo.
 - Die meister Software für peripherie.
 
 ## Was kann ich stattdessen nutzen?
-- *ersatzwebseite finden und einfügen*
 - Libre/openoffice
 - OpenRGB
 - Input-Remapper
 - effektiv jedes FOSS programm
-- faustregel: "je mehr OSS, desto größer die Chance, das es nativ auf Linux läuft"
-
+- faustregel: "je mehr FOSS, desto größer die Chance, das es nativ auf Linux läuft"
+- FOSS auf dem Vormarsch
+	- AnyPS5
+	- Craft Apps
+	- euro-office
 
 # Übersicht der Haupt Distros
 
@@ -87,12 +90,12 @@ MacOS ähnlich zu Linux, aber seehr corpo.
 ## TL;DR:
 | Distro | Fokus |
 | --- | --- |
-| Arch | Bleeding edge / Unstable |
+| Arch | Bleeding edge / Not Stable |
 | Debian | Always behind / extremely Stable |
 | Fedora | Mix of both |
 
 
-## Atomic?
+## Immutable?
 verbietet es dem user ohne weiteres in den kernel mode zu kommen
 TL;DR:
 locked down into user space, aims to be idiot "resistant"
@@ -148,6 +151,7 @@ Google.
 # Wie debugge ich Linux?
 
 problem + linux archetype + linux --> Google
+oder einfach KI fragen, für simple fragen überraschend gut
 
 
 # Extras
